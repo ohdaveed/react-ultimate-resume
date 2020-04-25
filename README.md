@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/welovedevs/react-ultimate-resume) 
+
 <p align="center">
   <img src="https://cdn.filestackcontent.com/compress/fyFHRMfCRL2xhwCVtx0F" width="400" />
 </p>
